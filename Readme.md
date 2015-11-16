@@ -1,7 +1,7 @@
 # Проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей Варава](https://htmlacademy.ru/profile/id3685).
-* Наставник: `Антон Попов`(https://htmlacademy.ru/profile/joker) .
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ### Немного о себе
 
